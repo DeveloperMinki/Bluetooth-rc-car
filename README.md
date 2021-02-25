@@ -1,4 +1,4 @@
-# 자료 이메일 요청 바랍니다. 
+# 궁금하신 내용은 이메일 요청 바랍니다. 
 # Bluetooth-rc-car
 # 무선 으로 조종가능한 자동차 만들기에 관한 자료 입니다.
 # This is data on making a car that can be controlled wirelessly.
